@@ -83,8 +83,8 @@ O projeto foi concluído resultando no Simulador de Investimentos Capitallab, um
 
 ## Próximos passos e evolução
 
-Para o futuro, este projeto pode ser expandido e aprimorado com as seguintes funcionalidades:
+Para o futuro, este projeto pode ser expandido e aprimorado com as seguintes funcionalidades, focando no refinamento e na análise de dados:
 
-* Integração de dados reais: buscar e integrar dados atuais de mercado (como dividend yields e cotações) via api ou web scraping (power query), transformando o simulador em uma ferramenta dinâmica.
-* Análise de sensibilidade: adicionar um módulo para simular o impacto de mudanças nas taxas de rendimento e inflação ao longo do tempo.
-* Migração para linguagem de programação: planejar a migração do modelo lógico para python ou outra linguagem, visando escalabilidade e o desenvolvimento de uma interface web.
+* Refinamento Visual: Melhorar o design do painel de controle aplicando formatação condicional avançada, cores e ícones para facilitar a leitura rápida dos resultados.
+* Módulo de Comparação de Cenários: Adicionar uma nova aba onde o usuário possa comparar lado a lado dois planos de investimento diferentes (ex: aporte A vs. aporte B), otimizando a tomada de decisão.
+* Documentação de Fórmulas: Criar um glossário ou uma seção de referência para explicar as fórmulas financeiras utilizadas (ex: juros compostos), garantindo total transparência do modelo.
